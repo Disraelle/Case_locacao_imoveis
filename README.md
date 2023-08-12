@@ -4,6 +4,7 @@
 
 **[Link:** [Estudo de caso](https://github.com/aasouzaconsult/business_intelligence/tree/main/Case%20Estudo%20-%20Loca%C3%A7%C3%A3o%20Veiculos)]
 
+   
 ![objetivos-da-qualidade2](https://github.com/Disraelle/Case_locacao_imoveis/assets/130857871/720ac918-f1e4-414c-92bb-20d1d9eef31b)
 
 
