@@ -1,6 +1,6 @@
-# Projetos estudo de dados
+# Estudo de caso - Locação de Imóveis
 
-Link estudo de caso: [Clique aqui]([https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](https://github.com/aasouzaconsult/business_intelligence/tree/main/Case%20Estudo%20-%20Loca%C3%A7%C3%A3o%20Veiculos))
+[Clique aqui]([https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](https://github.com/aasouzaconsult/business_intelligence/tree/main/Case%20Estudo%20-%20Loca%C3%A7%C3%A3o%20Veiculos))
 
 ---------------------------
 ```sql
