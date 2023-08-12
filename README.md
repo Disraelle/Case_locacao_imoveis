@@ -1,4 +1,3 @@
 # Projetos estudo de dados
 
-![governo-do-estado-do-ceara-logo-5D2932AF94-seeklogo com](https://github.com/Disraelle/Projeto_dados/assets/130857871/bdf3fce8-8a21-4db5-996f-ed571153ab88)
-[link](https://github.com/Disraelle/desktop-tutorial/blob/main/Dicas%20de%20Excel)
+[link]([https://github.com/Disraelle/desktop-tutorial/blob/main/Dicas%20de%20Excel](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
