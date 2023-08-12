@@ -6,4 +6,6 @@
 ```sql
 select * from teste
 
-
+--This is bold text--
+| Teste |
+---------
