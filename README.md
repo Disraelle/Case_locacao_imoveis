@@ -4,6 +4,6 @@
 
 ---------------------------
 ```sql
-###select * from teste
+select * from teste
 
 
