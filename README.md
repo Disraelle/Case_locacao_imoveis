@@ -15,13 +15,14 @@
 
 1) Extração, Tranformação e Carga pelo Pentaho.
 
-   - [X] Com base no arquivo tb_locacao.csv, elaborar o flow no pentaho.
+   - [X] Com base no arquivo tb_locacao.csv, criação do flow no pentaho (arquivo: Projeto_locacao_veiculo.ktr).
 
 2) Data Warehouse no PostgreSQL.
 
-   - [X] Após a estruturação no pentaho, executamos o flow conectando diretamente para o banco de dados PostgreSQL.
+   - [X] Após a estruturação no pentaho, execução do flow conectando diretamente para o banco de dados PostgreSQL.
 
 3) Select's realizados no DW.
+   - [X] Elaboração de algumas consultas no banco de dados (arquivo: Scripts_locacao_veiculos.sql).
    
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
