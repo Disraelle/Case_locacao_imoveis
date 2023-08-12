@@ -4,8 +4,9 @@
 
 **[Link:** [Estudo de caso](https://github.com/aasouzaconsult/business_intelligence/tree/main/Case%20Estudo%20-%20Loca%C3%A7%C3%A3o%20Veiculos)]
 
-
-
+<p align="center">
+<img width="460" height="300" scr="https://github.com/Disraelle/Case_locacao_imoveis/blob/main/objetivos-da-qualidade2.jpeg">
+</p>
 **Objetivo:** Criar uma ***POC*** de um Data Warehouse para uma Locadora de Veículos. 
 
 [*Saiba mais sobre* ***POC***](https://blog.ploomes.com/poc/)
